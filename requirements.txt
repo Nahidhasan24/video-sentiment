@@ -1,0 +1,9 @@
+flask==2.3.4
+onnxruntime==1.15.1
+opencv-python==4.8.1.78
+transformers==5.3.0
+torch==2.2.0
+torchvision==0.17.1
+torchaudio==2.2.0
+faster-whisper==1.1.2
+numpy==2.4.3
