@@ -1,4 +1,4 @@
-# Video Sentiment Analysis APIs
+# Video Sentiment Analysis API's
 
 This Flask-based application analyzes the **sentiment** and **visual emotions** from videos. It supports **multiple languages** using Whisper and XLM-RoBERTa, and facial emotion detection with the **FER+ ONNX model**.
 
